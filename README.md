@@ -1,1 +1,1 @@
-# media-assets
+All media/assets related to projects.
